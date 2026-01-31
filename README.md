@@ -3,7 +3,7 @@
   <a href="mailto:admin@azura.cfx.kr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/naver.official">
+  <a href="https://discord.com/users/1352557626336215144">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/stealkkak">
