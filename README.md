@@ -9,9 +9,6 @@
   <a href="https://github.com/stealkkak">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://azura.cfx.kr">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   <p>안녕하세요 저는 프론트엔드와 백엔드를 아우르며 다양한 프로젝트를 제작하고 있습니다. 새로운 기술을 배우고 창의적인 아이디어를 구현하는 것을 좋아합니다</p>
 </p>
 
